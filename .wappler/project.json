@@ -1,0 +1,16 @@
+{
+  "projectName": "scholzbanks",
+  "targets": [
+    {
+      "access": "ftp",
+      "nopassive": true,
+      "name": "remote",
+      "remoteURL": "https://scholzbank.com",
+      "ftpServer": "ftp.scholzbank.com",
+      "ftpRemoteFolder": "public_html",
+      "ftpUser": "scholzbank",
+      "ftpPassword": "23c0bde9f49ef9a2738f"
+    }
+  ],
+  "frameworks": []
+}
